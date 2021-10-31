@@ -10,14 +10,13 @@ ul{
 
 p{
     margin-left: 10px;
+    font-size: 20px;
 }
 h1{
     margin-left: 10px;
+    text-decoration: underline;
 }
 #copyright{
     font-size: 10px;
     color: red;
-}
-p{
-    font-size: 20px;
 }
