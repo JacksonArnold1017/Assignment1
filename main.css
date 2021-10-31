@@ -14,3 +14,10 @@ p{
 h1{
     margin-left: 10px;
 }
+#copyright{
+    font-size: 10px;
+    color: red;
+}
+p{
+    font-size: 20px;
+}
